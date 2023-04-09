@@ -1,8 +1,9 @@
+import FetchProducts from "./components/FetchProducts";
 
 function App() {
   return (
     <>
-      <section>Products app</section>
+      <FetchProducts/>
     </>
   );
 }
